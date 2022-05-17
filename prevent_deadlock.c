@@ -1,3 +1,5 @@
+//201804594 sonmuhyeon operating system prevent deadlock
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<pthread.h>

@@ -1,3 +1,5 @@
+// 201804594 sonmuhyeon operationsystem make deadlock
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<pthread.h>
